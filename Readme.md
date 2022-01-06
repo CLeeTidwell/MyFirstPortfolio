@@ -15,4 +15,4 @@ This project is created with:
 * CSS
 
 ## Setup
-To run this project, please visit the url
+To run this project, please visit the url https://cleetidwell.github.io/Portfolio/
