@@ -124,16 +124,16 @@ footer h2 {
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin: 20px;
   }
-  .showcase-project, .project header {
+  .showcase-project header, .project header {
 	border-radius: 50px 50px 0px 0px;
 	padding: 20px;
   }
   
-  .showcase-project, .project p {
+  .showcase-project p, .project p {
 	text-align: center;
   }
   
-  .showcase-project, .project img {
+  .showcase-project img, .project img {
 	width: 90%;
   }
 
