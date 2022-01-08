@@ -1,5 +1,5 @@
 # Christopher Lee Tidwell's Portfolio
-This is my personal portfolio built with the knowledge of what I have learned throughout the course of the online coding bootcamp.
+This is my personal portfolio built with the knowledge of what I have currently learned with CSS and HTML through the course of the online coding bootcamp.
 
 ## Table of contents
 * [General info](#general-info)
