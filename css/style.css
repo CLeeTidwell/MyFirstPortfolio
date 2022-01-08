@@ -142,7 +142,7 @@ footer h2 {
 	transition: all .2s ease-in-out; 
 	}
 	
-	.showcase-project, .project:hover { 
+	.showcase-project:hover, .project:hover { 
 	transform: scale(1.1); 
 	}
 
