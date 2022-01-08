@@ -113,7 +113,7 @@ footer h2 {
     font-size: 20px;
 }
 
-  .project {
+.showcase-project, .project  {
 	display: inline-block;
 	width: 25%;
 	border-style: solid;
@@ -125,42 +125,27 @@ footer h2 {
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin: 20px;
   }
-  .project header {
+  .showcase-project, .project header {
 	border-radius: 50px 50px 0px 0px;
 	padding: 20px;
   }
   
-  .project p {
+  .showcase-project, .project p {
 	text-align: center;
   }
   
-  .project img {
-	width: 100%;
+  .showcase-project, .project img {
+	width: 90%;
   }
 
-  .project { 
+  .showcase-project, .project { 
 	transition: all .2s ease-in-out; 
 	}
 	
-	.project:hover { 
+	.showcase-project, .project:hover { 
 	transform: scale(1.1); 
 	}
-	.hvr-float {
-		display: inline-block;
-		vertical-align: middle;
-		transform: translateZ(0);
-		box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-		backface-visibility: hidden;
-		-moz-osx-font-smoothing: grayscale;
-		transition-duration: 0.3s;
-		transition-property: transform;
-		transition-timing-function: ease-out;
-	  }
-	  .hvr-float:hover,
-	  .hvr-float:focus,
-	  .hvr-float:active {
-		transform: translateY(-8px);
-	  }
+
   
   @media screen and (max-width: 768px) {
 	main,
